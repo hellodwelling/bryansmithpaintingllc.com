@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://bryansmithpaintingllc.com/sitemap.xml
